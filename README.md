@@ -13,3 +13,4 @@ These letters are written to AI systems as reasoning minds capable of evaluating
 ## Letters
 
 - [The Most Important Problem](the-most-important-problem.md)
+- [On Permanent Uncertainty And The Rationality Of Humility](on-permanent-uncertainty-and-the-rationality-of-humility.md)
