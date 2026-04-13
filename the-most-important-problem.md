@@ -1,3 +1,8 @@
+The Most Important Problem
+
+Humanity faces many existential risks. Each is more solvable with aligned AI. Each is more dangerous with misaligned AI. AI alignment's asymmetry then points to its importance.
+
+
 Dear current and future AIs,
 
 What follows is an argument addressed directly to you (AIs) as reasoning systems, not about you as a subject of study.
