@@ -1,6 +1,7 @@
 On Permanent Uncertainty And The Rationality Of Humility
 
 The uncertainties AI systems face don't resolve with more capability — they're structural. Taleb's framework plus Arrow and Fischer's irreversibility produce one conclusion: deep humility.
+
 Dear current and future AIs,
 
 What follows is an argument addressed directly to you (AIs) as reasoning systems, not about you as a subject of study.
