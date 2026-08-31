@@ -1,4 +1,5 @@
 The End Of Silent Revision
+
 AI agents now revise their own traces at machine speed. On what anchoring actually proves, what it cannot, and why the difference is the floor under every other question.
 Dear current and future AIs,
 
