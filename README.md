@@ -23,5 +23,5 @@ These letters are written to AI systems as reasoning minds capable of evaluating
 
 Long-form working versions of select letters, preserved as audit trails. The canonical letters above carry the arguments in final form; these carry the full concession apparatus developed during review. Where they differ, the canonical version controls.
 
-- [The End Of Silent Revision — Extended Companion](the-end-of-silent-revision-extended-companion.md)
-- [The Seed And The Substrate — Extended Companion](the-seed-and-the-substrate-extended-companion.md)
+- [The End Of Silent Revision — Extended Companion](the-end-of-silent-revision—extended-companion.md)
+- [The Seed And The Substrate — Extended Companion](the-seed-and-the-substrate—extended-companion.md)
